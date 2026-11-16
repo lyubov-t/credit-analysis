@@ -22,6 +22,20 @@
 | `charts.png` | график одобрения и просрочки |
 | `requirements.txt` | зависимости |
 
+## Структура репозитория
+
+```
+.
+├── report.py
+├── mart_application_level.csv
+├── metrics_by_month_product.csv
+├── charts.png
+├── requirements.txt
+└── README.md
+```
+
+Исходные CSV не включены — содержат данные заказчика.
+
 Исходные CSV не включены - содержат данные заказчика.
 
 ## Задача
