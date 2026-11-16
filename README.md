@@ -8,8 +8,8 @@
 Основа для регулярного отчёта по портфелю розничного кредитования.
 
 **Автор:** Талалаева Любовь  
-[![GitHub](https://img.shields.io/badge/GitHub-lyubov-t-181717?logo=github)](https://github.com/lyubov-t)
-[![Telegram](https://img.shields.io/badge/Telegram-@lyub0v_ta26A5E4?logo=telegram)](https://t.me/lyub0v_ta)
+[(https://github.com/lyubov-t)
+![Telegram](https://img.shields.io/badge/Telegram-@lyub0v_ta26A5E4?logo=telegram)](https://t.me/lyub0v_ta)]
 
 **Дата:** Ноябрь 2026
 
