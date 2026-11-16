@@ -15,14 +15,13 @@
 
 ## Структура репозитория
 
-```
-├── report.py
-├── mart_application_level.csv
-├── metrics_by_month_product.csv
-├── charts.png
-├── requirements.txt
-└── README.md
-```
+| Файл | Назначение |
+|---|---|
+| `report.py` | скрипт: загрузка, очистка, метрики, график |
+| `mart_application_level.csv` | витрина на уровне заявки |
+| `metrics_by_month_product.csv` | метрики месяц × продукт |
+| `charts.png` | график одобрения и просрочки |
+| `requirements.txt` | зависимости |
 
 Исходные CSV не включены — содержат данные заказчика.
 
