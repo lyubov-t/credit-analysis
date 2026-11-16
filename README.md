@@ -16,7 +16,6 @@
 ## Структура репозитория
 
 ```
-.
 ├── report.py
 ├── mart_application_level.csv
 ├── metrics_by_month_product.csv
